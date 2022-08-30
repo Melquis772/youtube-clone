@@ -2,7 +2,7 @@
   "name": "youtube-client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://melquis772.github.io",
+  "homepage": "https://melquis772.github.io/youtube-clone",
   "dependencies": {
     "@emotion/react": "^11.10.0",
     "@emotion/styled": "^11.10.0",
